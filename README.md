@@ -21,3 +21,8 @@ I'm a Software Engineer focused on backend development and building reliable, ma
 * Strengthening my backend development skills
 * Learning system design and scalable architecture
 * Continuously improving my software engineering practices
+
+## 🔗 Connect with me
+
+* [LinkedIn](https://www.linkedin.com/in/ting-yung-li/)
+* [GitHub](https://github.com/peter861013)

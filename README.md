@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Peter 👋
 
-<!--
-**peter861013/peter861013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer focused on backend development and building reliable, maintainable software.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Java, SQL
+* **Frameworks:** Spring Boot, Spring Data JPA, Hibernate
+* **Database:** DB2
+* **Tools:** Git, Maven, IntelliJ IDEA
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* System Design
+* Clean Code & Software Engineering Practices
+
+## 🎯 Currently Focused On
+
+* Improving my Data Structures & Algorithms skills
+* Strengthening my backend development skills
+* Learning system design and scalable architecture
+* Continuously improving my software engineering practices
